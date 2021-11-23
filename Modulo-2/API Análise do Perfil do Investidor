@@ -1,0 +1,21 @@
+API Análise do Perfil do Investidor
+Tres fatores
+    Periodo
+    Risco
+    Finalidade
+
+Complementar com as informações
+    Receitas
+    Patrimônio
+    Necessidades Futuras
+
+O API nçao sera obrigatorio para: 
+    1. Investidor Qualificado
+    2. Pessoa Jurudica de direito Publico
+    3. Cliente que tiver carteira adm por um adm de carteira
+
+Nao pode oferecer prod de ivestimento nesses casos:
+    1. O perfil do cliente estiver desatualizado (24 atualiza)
+    2. O cliente nao possuir perfil de Investidor
+    3. See o perfil do cliente estiver desenquadrado
+
