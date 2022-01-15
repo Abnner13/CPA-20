@@ -1,0 +1,21 @@
+PIB - Produto Interno Bruto
+
+    PIB - Produto Interno Bruto é a soma de todos os bens e serviços finais, em termos monetários e a valor de mercado,
+        Produziods em uma determinada região, durante um periodo de tempo
+
+    Formula PIB 
+        PIB = C + I + G + (X - M)
+
+        C - COnsumo das Familias
+        I - Investimento Privado
+        G - Gastos Governamentais
+        X - Exportações
+        M - Importação
+        EL - Exportações Liquidas
+        NX - Net Exports
+
+    PIB Nominal - PIB - Produto Interno Bruto em relação ao ano anterior
+    PIB Real - É esse valor porem descatado pela inflação
+    PIB Per Capta - Valor do PIB Divididos pela quantidade de pessaos da região
+    Observação => PIB - Produto Interno Bruto É o quanto o estado PRODUZ (e nao quanto tem) de Riqueza
+

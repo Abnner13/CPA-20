@@ -1,0 +1,12 @@
+Capitalização Simples e Composta
+
+Juros Simples = Taxa Proporcional
+Juros Compostos = Taxa Equivalente
+
+Formula
+Capitalização Simples:                          Onde :
+                                                t = i Juros
+    J = C . t. n                                C = VP = Valor Presente
+    M = C + J                                   n = prazo
+                                                M = VF = Valor Final
+Juros Compostos = VF = VP x (1 + i) ^ n

@@ -1,0 +1,7 @@
+TR Taxa Referencial
+
+Calculada pelo BACEN com base na media das taxas de juros negociadas no mercado secundario com letras do Tesouro Nacional (LTN)
+    por metodologia propria. A essa media, denominada Taxa Basica Financeira (TBF),
+    é aplicado um fator REDUTOR, para então se chegar ao resultado da TR
+
+LTN (Letras do Tesouro nacional)>> TBF (Taxa Basica Finaneira) >> R (Redutor) >> Taxa Referencial(TR)

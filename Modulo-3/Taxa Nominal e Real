@@ -1,0 +1,11 @@
+JUROS NOMINAL E REAL
+
+TAxa Nominal = Todo o juro que o investidor recebe na operaço
+TAxa Real =  Taxa Nomilnal - Inflação do periodo
+
+EXEMPLO : 
+    Taxa Nominal = 10%
+    Inflação = 5%
+
+    Taaxa Real = (1 + Taxa Nominal) / (1 + Inflação) - 1
+    Taxa Real = 4,76%

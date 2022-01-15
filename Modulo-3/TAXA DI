@@ -1,0 +1,11 @@
+CDI - Certificado de Deposito Interbancario
+Banco empresta dinheiro pra outro porem ao inves de usar TPF ele usa CDI
+e o calculo dessa operação gera a taxa DI
+
+Taxa DI
+Dois fatores devem ser atendidos
+    1. - Operações iguais ou superiores a 100
+    2 - Somatorio dos volumes iguais ou maiores de 30 bilhões
+
+Caso nao seja atendido um dos dois criterios, sera diivulgado camo a taxa DI
+    a mesma que a Selic Over Diaria
