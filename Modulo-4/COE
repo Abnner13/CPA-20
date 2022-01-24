@@ -1,0 +1,29 @@
+COE - CERTIFICAÇÃO DE OPERAÇÃO ESTRUTURADA
+    - Combinaçao entre renda fixa e variavel,
+        É estruturada com base em cenarios
+    
+    - A Emissao pode ser feita de dois jeitos:
+        Valor Nominal protegido, com garantia do valor principal investido
+        ou
+        Valor Nominal em risco, em que ha possiblidade de perda até o limite do capital investido
+
+    * Emissão: Bancos registrados na Cetip(B3)
+    * O COE tem vencimento, valor minimo de aporte, indexador 
+        e cenario de ganhos e perdas definidos pelos bancos 
+        para diferentes perfis de investidor;
+    * IR Regressivo
+    * Pode ou nao ter liquidez antecipada ao vencimento
+    * A "Lamina" do COE é chamada de DIE - Documento de Informações Essenciasis
+
+    EXEMPLO de COE:
+        - Se o IBOV cair                  ==> Capital Protegido
+        - Se o IBOV Subir até 10%         ==> Ganho de 15%
+        - Se o IBOV subir até 20%         ==> Ganho 25%
+        - Se o IBOV subir mais do que 25% ==> Ganho de 10%
+
+        No fechamento, o IBOV subiu 13%, qual será o ganho?
+        Resposta: O ganho será de 25% bruto ja que, me encaixo
+            no terceiro cenario e ganharei 25%. porém ainda tem 
+            IR regressivo que no casso pode ser de 15%, tirando
+            15% dos meus rendimentos que sao de 25%.
+            Sobra 21,25% Liquido

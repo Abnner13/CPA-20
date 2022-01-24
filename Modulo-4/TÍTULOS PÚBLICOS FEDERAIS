@@ -1,0 +1,27 @@
+TÍTULOS PÚBLICOS FEDERAIS
+    1. LFT = LEETRA FINACEIRA DO TESOURO
+            PÓS ==> TESOURO SELIC
+    
+    2. LTN = LETRA DO TESOURO NACIONAL
+        PRÉ ==> 10% AO Anos
+    
+    LETRA NÃO PAGA CUPOM
+
+    3. NTN-B => NOTA DO TESOURO NACIONAL - SERIE B
+        - GANHO REAL
+        - REAL = NOMINAL - INFLAÇÃO
+        - PREFIXADO(REAL) + IPCA(10%)
+        - CUPOM ==> 6% AO ANO
+    
+    4. NTN-B PRINCIPAL = NÃO TEM CUPOM
+
+    5. NTN-F ==> PREFIXADO = 10% AO ANO 
+
+    IR: Tabela Regressiva
+        - 22,5% até 180 dias
+        - 20% até 181 a 360 dias
+        - 17,5% até 361 a 720 dias
+        - 15% mais de 720 dias
+        - IOF até o dia 29
+        - Não contém FGC
+    

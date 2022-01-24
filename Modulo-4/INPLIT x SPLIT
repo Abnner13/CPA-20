@@ -1,0 +1,17 @@
+INPLIT x SPLIT
+
+    Grupamento (INPLIT) - Número de Ações + Aumenta o preço
+    Grupamento (INPLIT) : Reduz a quantidade de ações aumentando o
+                         valor de cada ação (Objetivo: Menor risco)
+    EXEMPLO (INPLIT): 
+        R$ 50,00 Por Ação  ==> 200.00 Açoes = R$ 10.000.000,00
+        R$ 100,00 por acão ==> 100.00 Ações = R$10.000.000,00
+    
+
+    Desdobramento (SPLIT) + Número de Ações - Diminui o preço
+    Desdobramento (SPLIT) : Aumenta a quantidade de ações reduzindo o
+                         valor de cada ação (Objetivo: Maior Liquidez - Visa diminuir o risco de liquidez)
+    EXEMPLO (SPLIT): 
+        R$ 100,00 por acão ==> 100.00 Ações = R$10.000.000,00
+        R$ 50,00 Por Ação  ==> 200.00 Açoes = R$ 10.000.000,00
+

@@ -1,0 +1,33 @@
+SWAP
+    - Consiste em trocar lfuxos futuros de caixa 
+    - Nao tem padronização
+    
+    * Tem risco de Credito
+    * IR tabela regressiva
+
+    Exemplo 1: 
+        Cliente possui divida indexada à variação da inflação, mas,
+            não possui nenhum tipo de receita que acompanha 
+            perfeitamente a inflação
+        
+        100 mil devendo ==> IPCA 
+
+        PAGAR DOLAR
+        RECEBER INFLAÇÃO
+
+        100 MIL REIAS == INF = 10% => 10 MIL
+        100 MIL REIAS == DÓLAR = 7% => 7 MIL
+        LUCRO NA OPERAÇÂO  (3 MIL )    
+
+    EXEMPLO 2: 
+        Cliente possui uma divida em Dolar com taxa de juros de 6%
+        a.a (linear), mas, quer trocar o risco cambial resultante
+        pelo indexador %CDI
+
+        TAXA DE JUROS 6% AO ANO (PREFIXADO)
+        QUERO RECEBER CDI (ACREDITO QUE VAI SUBIR + 6%)
+
+        PAGO PREFIXADO DE 6% (PAGO 6%)
+        RECEBO CDI (RECEBO 12%)
+        LUCRO 6%
+

@@ -1,0 +1,31 @@
+Ações
+    Menor parcela do capital social de uma empresa S.A
+    
+    Lote padrão: 100 Ações
+    
+    Lote fracionário: 1 Ação. Normalmente seu preço é maior que as
+                                ações do lote padrão, pela menor liquidez
+
+    Liquidaçao fisica e financeira: D + 2
+
+    TIPOS DE Ações
+
+    ON(Ordinárias): PETR3
+                    Garatem o direito a voto nas assembleias de acionistas
+    
+    PN(Preferenciais): PETR4
+                        1.  DA praferencia no recebimento dos dividendos da companhia,
+                            assim, o dividendo de um acionista PN será no minimo 10% maior
+                            que o dividendo do acionista ON
+                        
+                        2.  Nao concede direitoa voto, salvo a uma exceção:
+                                                            Caso a compnhia fique 3 anos consecutivos sem distribuir dividendos
+
+    UNITIS: SANB11
+            Contem tanto ações PN quanto ON
+    
+    CANAIS DE DDISTRIBUIÇÃO
+
+        CTVM/DTVM
+        Agências bancárias / Plataformas digitais
+        Internet - Home Broker

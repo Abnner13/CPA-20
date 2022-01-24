@@ -1,0 +1,15 @@
+IR ( Imposto de Renda )
+    IR Regressivo para CDB, DPGE, LF, Debêntures, Notas promissórias
+        e Titulos Públicos Federais.
+    
+    Cobrança: no resgate
+
+    Isenção PF para Poupança, Debênture Incentivada, 
+        CRI, CRA, LCI, LCA e CPR
+
+    TABELA IR regressiva
+
+        0   - 180 => 22,5
+        181 - 360 => 20,0
+        361 - 720 => 17,5
+        acima 721 => 15

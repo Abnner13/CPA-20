@@ -1,0 +1,16 @@
+Mercado a Termo
+    Nesses mercados dão realizados acordos privaodr de compra 
+        e venda de um ativo para liquidação em data 
+        futura por preço predeterminado.
+
+    Caracteristicas:
+        * Contratos não padronizados: 
+            itens do contrato serao negociados pelas partes 
+        
+        * Os riscos são assumidos pela contraparte.
+            nâo existe um mecanismo de segurança de recebimento ( fisico ou fianceiro )
+
+    Tributação
+        - Aliquota: 15%
+        - Fato gerador: Encerramento da posição, ou seja, a liquidaçao do Termo
+        - Responsabilidade pelo Recolhimento: Do investidor;

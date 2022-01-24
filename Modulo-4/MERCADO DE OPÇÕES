@@ -1,0 +1,50 @@
+MERCADO DE OPÇÕES
+    - CALL Direito de decidir compra do ativo no futuro a preço pré-determinado
+    - PUT Direito de decidir venda do ativo no futuro a preço pré-determinado
+
+    TABELA
+        TIPO DE OPÇÃO
+        CALL    
+            TITULAR TEM DIREITO => COMPRAR (PAGA O PREMIO)
+            LANÇADOR TEM OBRIGAÇÃO => VENDER (RECEBE O PREMIO)
+
+        PUT    
+            TITULAR TEM DIREITO => VENDER (PAGA O PREMIO)
+            LANÇADOR TEM OBRIGAÇÃO => COMPRAR (RECEBE O PREMIO)
+
+    Em ambos casos, o direito adquirido na negociação tem prazo de
+        validade (um dia ou um periodo ), refere-se a um produto 
+        denominado ativo-objeto ( definido no contrato) e é exercido
+        a um preço de exercicio previamente estabelecido
+
+    Exemplo CALL:
+        PETR3 (30,00 r$)
+        EU ACHO QUE VAI PRA 50 r$
+        FULANO ACHA QUE VAI A 10 r$
+
+        EU PAGO UM PREMIO DE 4 PORA AÇAO ( PREMIO)
+        PRA TER O DIREITO DE COMPRAR A 40,00 R$ ( PREÇO DE EXERCICIO)
+        JA QUE EU ACHO QUE VAI A 50,00 R$
+
+        FULANO TEM OBRIGAÇÃO DE VENDER
+
+    Exemplo PUT:
+        PETR3 (30,00 r$)
+        EU ACHO QUE VAI PRA 10 r$
+        FULANO ACHA QUE VAI A 50 r$
+
+        EU PAGO UM PREMIO DE 4 PORA AÇAO ( PREMIO)
+        PRA TER O DIREITO DE VENDER A 20,00 R$ ( PREÇO DE EXERCICIO)
+        JA QUE EU ACHO QUE VAI A 10,00 R$
+
+        FULANO TEM OBRIGAÇÃO DE COMPRAR
+
+    TIPOS DE OPÇÕES: 
+        Opções Europeias
+            - Podem ser exercidas apenas na data de VENCIMENTO;
+        
+        Opções Americanas
+            - Podem ser exercidas a QUALQUER MOMENTO ou em determinadas
+                datas ou periodos entre a data de emissão e a data de 
+                vencimento
+    

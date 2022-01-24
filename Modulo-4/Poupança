@@ -1,0 +1,14 @@
+Poupança
+    Investimento mais tradicional do Brasil
+        - Possui FGC
+        - Isento de IR para PF
+        - Liquidez diária
+        - Possui aniversário
+        - Aplicações realizadas nos dias 29, 30 e 31 de cada mes,
+            terão como data de anivessario o dia 01 do mmes subsequente
+        
+    Rentabilidade => vale o dia do depósito
+    Remunera o menor saldo do periodo
+
+    Se a SELIC for ACIMA de 8,5% ==>  0,5% ao mês = TR (Taxa Referencial)
+    Se a SELIC for ABAIXO de 8,5 ==>  70% da SELIC = TR (Taxa Referencial)
