@@ -1,0 +1,8 @@
+Fundos de Investimentos
+Qual a finalidade de se investir em Fundos de Investimentos?
+    Fundo de Investimentos: Compram ativos
+    Fundos de Investimentos em Cotas FIC: Compram cotas de Fundos de Investimentos
+
+    Cota: Menor fração do Patrimonio liquido do Fundo
+    Cálculo do valor da cota: 
+        PL / Número de cotas < = > (Ativos - Despesas) / número de cotas
