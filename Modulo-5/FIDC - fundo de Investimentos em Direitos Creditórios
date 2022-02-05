@@ -1,0 +1,13 @@
+FIDC - fundo de Investimentos em Direitos Creditórios
+    Faz antecipação de Direitos Creditórios
+        Caracteristicas:
+            - Fundo: pode ser emitido como aberto ou  Fechado
+            - Valor minimo de aplicação: NÃO tem Mais
+            - Composição de carteira: No minimo 50% em Direitos
+                Creditórios
+            - Cotas: 
+                - Senior
+                - Subordinada
+            - Permite apenas Investidores Qualificados
+            - Tributação: TAbela Regressiva de imposto de Renda,
+                apenas no resgate

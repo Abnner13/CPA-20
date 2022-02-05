@@ -1,0 +1,12 @@
+Fundos dentro do Fundo de Investimentos
+    Adminstrador:         responsavel legal pelo fundo
+    Gestor:               profissional que irá alocar o recurso de terceiros
+    Custodiante:          guarda as posições do fundo, seja de cotistas ou ativos
+    Distribuidor:         profissional que faz a captação de recursos de terceiros
+    Auditor Independente: verifica a autenticidade das informações contabeis
+
+Caso o Adminstrador seja uma instituição financeira,
+    fica a criterio a contratação de:
+    - Gestor
+    - Distribuidor
+    - Custodiante

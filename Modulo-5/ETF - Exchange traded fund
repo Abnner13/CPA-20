@@ -1,0 +1,10 @@
+ETF - Exchange Traded fund
+    Fundo de Investimento que replica um indice de mercado
+
+    Caracteristicas:
+        Minimo de 98% do PL para replicar o indice
+        Negociado em bolsa de valores ou mercado de balcão organizado
+        Fundo Abertos
+        Lota padrão = 1 cota
+        Tributação de 20% para Day-Trade e 15% para Swing-Trade
+        Não possui come cotas
