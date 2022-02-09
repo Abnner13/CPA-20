@@ -1,0 +1,16 @@
+Distribuição Normal
+    68% = 1 desvio padrão
+    95% = 2 desvios 
+    99,7% = 3 desvios
+
+    Exemplo Distribuição do consumo de lubrificantes no periodo
+        entre o pedido de compra e a entrega
+
+        3   9   15  21  27
+        Média => 15 litros
+        desvio padrão => 6 litros
+        68% ==> 1 desvio padrão
+        média = 1 desvio pra cima ou pra baixo
+
+        15 + 6 = 21
+        15 - 6 = 9 68% de chance de ser 9 a 21

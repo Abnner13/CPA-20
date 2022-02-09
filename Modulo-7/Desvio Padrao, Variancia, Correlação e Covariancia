@@ -1,0 +1,30 @@
+Desvio Padrao, Variancia, Correlação e Covariancia
+    Variância e Desvio Padrão (volatilidade)
+        - Medem a disperção em torno da Média
+        - O quanto o resultado está distante da Média
+        - Desvio padrão = raiz quadrada da Variancia - representando pela letra grega "Sigma"
+
+        Um Único Elemento
+        5% + 3% + 10% - 5% + 3% = 16%/5 = 3,20%
+        5,40% (Desvio padrão)
+
+        Outro fundo
+        3% + 4% + 4% + 4% + 1% = 16%/5 = 3,20%
+        1,30 (Desvio Padrao)
+
+        desvio padrão é a raiz quadrada da variancia 
+
+    Covariancia - quanto os dados se movem em conjunto
+        - So pode ser positiva e negativa
+        - Positiva => Sobe um o outro sobe tambem (Exemplo: Bancos)
+        - Negativa => Um Sobe o outro desce ( Exemplo: Bolsa e Dolar)
+
+    Coeficiente de Correlação - usada para medir a força da associação entra as variaveis
+        - positiva e negativa de -1 a +1
+        - +1 Correlação positiva forte
+        - 0 Sem correlação
+        - -1 Correlação negativa forte
+
+    Coeficiente de determinação (R2) - Asume valores entre +1 e +1
+        - R2 = 87%
+        - 87% Das Vezes que o Bradesco Subir, o Itau vai subir

@@ -1,0 +1,32 @@
+Tipos de Risco
+    Mercado - Risco de variação dos preços dos Ativos
+    Liquidez - Risco de não conseguir Vender pelo preço justo
+    Crédito - Risco tomador nao honrar suas  dividas
+    Operacicional - Risco de falha no processamento da operação
+
+    ** Na analise de portifolios o principal risco analisado é de mercado **
+
+
+    Quanto maior o risco maior o retorno
+    Quanto maior o prazo maior o retorno
+
+
+    Todo investimento tem risco de Mercado?
+        Todo investimento em ativos com volatilidade maior que zero
+        corre risco de mercado, portanto apenas os investimentos prefixados
+        podem ser considerados livres de risco de mercado
+        (*considerando a taxa básica de juros que não muda).
+
+    Todo investimento tem risco de Crédito?
+        A princípio todo investimento em ativos financeiros tem risco de
+        crédito. Os investimentos em ativos reais podem correr risco de 
+        crédito se o custodiante não for o próprio detentor dos ativos.
+
+    Todo investimento tem risco de Liquidez?
+        A princípio todo investimento tem risco de liquidez uma
+        vez que não existe garantia da compra ou venda de seus ativos 
+        a qualquer momento a um preço justo.
+
+    Todo investimento tem risco Operacional?
+        Um investimento terá risco operacional se houver algum processo 
+        envolvido desde a contratação até a sua liquidação.
